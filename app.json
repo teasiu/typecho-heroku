@@ -3,7 +3,7 @@
   "description": "在 Heroku 上部署基于 PHP + Nginx + PostgreSQL/MySQL 环境的 Typecho。",
   "website": "https://github.com/teasiu/typecho-on-heroku",
   "repository": "https://github.com/teasiu/typecho-on-heroku",
-  "success_url": "/install.php",
+  "success_url": "/index.php",
   "addons": [
     {
       "plan": "heroku-postgresql:hobby-dev"
