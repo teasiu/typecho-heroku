@@ -1,0 +1,12 @@
+{
+	"require": {
+	"php": "7.*",
+	"ext-gd": "*",
+	"ext-apcu": "*",
+	"ext-intl": "*",
+	"ext-exif": "*",
+	"ext-imagick": "*",
+	"ext-mbstring": "*",
+	"ext-memcached": "*"
+	}
+}
