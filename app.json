@@ -6,9 +6,6 @@
   "success_url": "/install.php",
   "addons": [
     {
-      "plan": "jawsdb-maria:kitefin"
-    },
-    {
       "plan": "heroku-postgresql:hobby-dev"
     }
   ],
